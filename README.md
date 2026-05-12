@@ -1,95 +1,52 @@
 <div align="center">
 
+<h1> SkyIntel Aviation Dashboard</h1>
+
+<h3><i>Next-generation aviation intelligence. Engineered for clarity at 35,000 feet.</i></h3>
+
+<p>A futuristic aviation operations dashboard delivering real-time flight data, AI-powered delay prediction,<br/>weather intelligence, and operational insights — built entirely on the modern web stack.</p>
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        HERO SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00d4aa?style=for-the-badge&labelColor=0a0f1e&logo=airport&logoColor=00d4aa" />
+<a href="https://tusharr-mishra.github.io/skyintel-aviation-dashboard/">
+  <img src="https://img.shields.io/badge/◈ LIVE DEMO-Launch Dashboard-00d4aa?style=for-the-badge&labelColor=0a0f1e" />
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/VERSION-1.0.0-3b82f6?style=for-the-badge&labelColor=0a0f1e" />
-&nbsp;
-<img src="https://img.shields.io/badge/STACK-HTML · CSS · JS-f59e0b?style=for-the-badge&labelColor=0a0f1e" />
-&nbsp;
-<img src="https://img.shields.io/badge/THEME-LIGHT / DARK-8b5cf6?style=for-the-badge&labelColor=0a0f1e" />
-&nbsp;
-<img src="https://img.shields.io/badge/DESIGN-GLASSMORPHISM-ec4899?style=for-the-badge&labelColor=0a0f1e" />
+<a href="https://github.com/tusharr-mishra/skyintel-aviation-dashboard">
+  <img src="https://img.shields.io/badge/◈ SOURCE-GitHub Repo-3b82f6?style=for-the-badge&labelColor=0a0f1e" />
+</a>
 
 <br/><br/>
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║        ✈   S K Y I N T E L   A V I A T I O N   D A S H         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-# SkyIntel Aviation Dashboard
-
-### *Next-generation aviation intelligence. Engineered for clarity at 35,000 feet.*
-
-**A futuristic aviation operations dashboard delivering real-time flight data, AI-powered delay prediction, weather intelligence, and operational insights — built entirely on the modern web stack.**
-
-<br/>
-
-[![Live Demo](https://img.shields.io/badge/◈%20LIVE%20DEMO-Launch%20Dashboard-00d4aa?style=for-the-badge&labelColor=0a0f1e)](https://tusharr-mishra.github.io/skyintel-aviation-dashboard/)
-&nbsp;
-[![View Source](https://img.shields.io/badge/◈%20SOURCE-GitHub%20Repo-3b82f6?style=for-the-badge&labelColor=0a0f1e)](https://github.com/tusharr-mishra/skyintel-aviation-dashboard/)
-
 </div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      HERO PREVIEW                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="assets/screenshots/dashboard-overview.png" alt="SkyIntel Dashboard Overview" width="90%" style="border-radius: 12px;" />
-
-<sub><sup>▲ SkyIntel Operations Center — Main Dashboard View</sup></sub>
-
-</div>
-
-<br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       DEMO VIDEO                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## 🎬 &nbsp; Platform Demo
+<img src="assets/screenshots/dashboard-overview.png" alt="SkyIntel Dashboard Overview" width="88%" />
+
+<sub>▲ SkyIntel Operations Center — Main Dashboard View</sub>
 
 </div>
-
-> A full walkthrough of all core modules — flight monitoring, AI predictions, weather feeds, analytics, and the responsive dark/light UI system.
-
-<div align="center">
-
-https://github.com/your-username/skyintel/assets/your-asset-id/SkyIntel-demo.mp4
-
-<!-- Fallback: If video doesn't embed, link directly -->
-**→ [▶ Watch Full Demo](assets/demo/SkyIntel-demo.mp4)**
-
-</div>
-
-<br/>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     ABOUT SECTION                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+<h2> Platform Demo</h2>
+
+<p>A full walkthrough of all core modules — flight monitoring, AI predictions, weather feeds, analytics, and the responsive dark/light UI system.</p>
+
+<p><b>▶ <a href="assets/demo/SkyIntel-demo.mp4">Watch Full Demo</a></b> &nbsp;·&nbsp; <i>Or upload to YouTube/Loom and paste the link here for embedded preview</i></p>
+
+</div>
+
+---
 
 <div align="center">
 
-## ◈ &nbsp; About the Platform
+<h2> About the Platform</h2>
 
 </div>
 
@@ -99,56 +56,34 @@ Built without frameworks or dependencies, it demonstrates mastery of **vanilla w
 
 > *Think of it as a mission control interface for the modern aviation era — where data clarity meets aerospace-grade precision.*
 
-The platform surfaces six intelligence modules in a unified dashboard:
-- Live flight operations at a glance
-- Layered weather data per airport node
-- AI-generated delay risk analysis
-- Operational KPI analytics
-- News and NOTAM alert feeds
-- Actionable AI operational insights
-
-<br/>
+The platform surfaces six intelligence modules in a unified dashboard: live flight operations, layered weather data, AI-generated delay risk analysis, operational KPI analytics, news and alert feeds, and actionable AI operational insights.
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    FEATURES SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## ◈ &nbsp; Feature Matrix
+<h2>◈ Feature Matrix</h2>
 
 </div>
 
 | Module | Description | Status |
 |---|---|---|
-|  **Live Flight Monitoring** | Real-time flight cards with status, route, gate, and delay data | `Operational` |
-|  **Weather Intelligence** | Airport-level weather feeds — visibility, wind, pressure, alerts | `Operational` |
-|  **AI Delay Prediction** | Predictive delay scoring with confidence levels and risk factors | `Operational` |
-|  **Analytics Dashboard** | KPI counters, route performance, and operational trend charts | `Operational` |
-|  **AI Operational Insights** | Context-aware AI recommendations for ground ops and scheduling | `Operational` |
-|  **Aviation News System** | Curated aviation news ticker and live alert panels | `Operational` |
-|  **Light / Dark Mode** | Persistent theme toggle with `localStorage` state management | `Operational` |
-|  **Responsive Design** | Fluid layouts optimized across mobile, tablet, and desktop | `Operational` |
-|  **Dynamic Filtering** | Interactive multi-parameter flight and route filtering system | `Operational` |
-|  **Smooth Animations** | Glassmorphism UI, animated counters, scroll-triggered reveals | `Operational` |
-
-<br/>
+| ✈ **Live Flight Monitoring** | Real-time flight cards with status, route, gate, and delay data | `Operational` |
+| 🌦 **Weather Intelligence** | Airport-level weather feeds — visibility, wind, pressure, alerts | `Operational` |
+| 🤖 **AI Delay Prediction** | Predictive delay scoring with confidence levels and risk factors | `Operational` |
+| 📊 **Analytics Dashboard** | KPI counters, route performance, and operational trend charts | `Operational` |
+| 💡 **AI Operational Insights** | Context-aware AI recommendations for ground ops and scheduling | `Operational` |
+| 📰 **Aviation News System** | Curated aviation news ticker and live alert panels | `Operational` |
+| 🎨 **Light / Dark Mode** | Persistent theme toggle with `localStorage` state management | `Operational` |
+| 📱 **Responsive Design** | Fluid layouts optimized across mobile, tablet, and desktop | `Operational` |
+| 🔍 **Dynamic Filtering** | Interactive multi-parameter flight and route filtering system | `Operational` |
+| ✨ **Smooth Animations** | Glassmorphism UI, animated counters, scroll-triggered reveals | `Operational` |
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    TECH STACK SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## ◈ &nbsp; Technology Stack
-
-</div>
-
-<div align="center">
+<h2>◈ Technology Stack</h2>
 
 | Layer | Technology | Purpose |
 |---|---|---|
@@ -162,78 +97,40 @@ The platform surfaces six intelligence modules in a unified dashboard:
 
 </div>
 
-<br/>
-
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                   SCREENSHOTS SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## ◈ &nbsp; Platform Screenshots
+<h2> Platform Screenshots</h2>
 
-</div>
+<h4>Flight Operations Center</h4>
 
-<br/>
-
-<div align="center">
-
-### Flight Operations Center
-<img src="assets/screenshots/flight-dashboard.png" alt="Flight Dashboard" width="80%" />
+<img src="assets/screenshots/flight-dashboard.png" alt="Flight Dashboard" width="85%" />
 
 <sub>Live flight cards with real-time status indicators, route data, and delay flags</sub>
 
-</div>
+<br/><br/>
+
+| | |
+|:---:|:---:|
+| <img src="assets/screenshots/weather-intelligence.png" alt="Weather Intelligence" width="420" /><br/><sub><b>Weather Intelligence</b> — Per-airport atmospheric data feeds</sub> | <img src="assets/screenshots/analytics-panel.png" alt="Analytics Panel" width="420" /><br/><sub><b>Analytics Dashboard</b> — Animated KPI counters and performance metrics</sub> |
+| <img src="assets/screenshots/ai-prediction-system.png" alt="AI Prediction System" width="420" /><br/><sub><b>AI Delay Prediction</b> — Confidence-scored predictive risk engine</sub> | <img src="assets/screenshots/avaition-news.png" alt="Aviation News" width="420" /><br/><sub><b>Aviation News & Alerts</b> — Live ticker bar and NOTAM-style alert panel</sub> |
 
 <br/>
 
-<table>
-<tr>
-<td align="center" width="50%">
-<img src="assets/screenshots/weather-intelligence.png" alt="Weather Intelligence" width="100%" />
-<sub><b>Weather Intelligence</b><br/>Per-airport atmospheric data feeds</sub>
-</td>
-<td align="center" width="50%">
-<img src="assets/screenshots/analytics-panel.png" alt="Analytics Panel" width="100%" />
-<sub><b>Analytics Dashboard</b><br/>Animated KPI counters and performance metrics</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-<img src="assets/screenshots/ai-prediction-system.png" alt="AI Prediction System" width="100%" />
-<sub><b>AI Delay Prediction</b><br/>Confidence-scored predictive risk engine</sub>
-</td>
-<td align="center" width="50%">
-<img src="assets/screenshots/aviation-news.png" alt="Aviation News" width="100%" />
-<sub><b>Aviation News & Alerts</b><br/>Live ticker bar and NOTAM-style alert panel</sub>
-</td>
-</tr>
-</table>
+<h4>AI Operational Insights</h4>
 
-<br/>
-
-<div align="center">
-
-### AI Operational Insights
-<img src="assets/screenshots/ai-insights.png" alt="AI Insights" width="80%" />
+<img src="assets/screenshots/ai-insights.png" alt="AI Insights" width="85%" />
 
 <sub>Context-aware AI suggestions for ground operations, scheduling, and resource management</sub>
 
 </div>
 
-<br/>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ARCHITECTURE SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## ◈ &nbsp; Frontend Architecture
+<h2>◈ Frontend Architecture</h2>
 
 </div>
 
@@ -241,13 +138,13 @@ SkyIntel's architecture is deliberately modular — each intelligence panel oper
 
 ```
 SkyIntel/
-├── index.html          ← Semantic shell & module scaffolding
-├── style.css           ← Design system: tokens, themes, animations
-├── script.js           ← Rendering engine, state logic, event bus
+├── index.html           ← Semantic shell & module scaffolding
+├── style.css            ← Design system: tokens, themes, animations
+├── script.js            ← Rendering engine, state logic, event bus
 │
 └── assets/
-    ├── screenshots/    ← Module previews
-    └── demo/           ← Platform walkthrough video
+    ├── screenshots/     ← Module previews
+    └── demo/            ← Platform walkthrough video
 ```
 
 <details>
@@ -280,21 +177,13 @@ SkyIntel/
 
 </details>
 
-<br/>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               KEY FRONTEND CONCEPTS SECTION                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## ◈ &nbsp; Key Frontend Engineering Concepts
+<h2>◈ Key Frontend Engineering Concepts</h2>
 
 </div>
-
-This project is a deliberate demonstration of production-level vanilla JS capabilities:
 
 - **DOM Manipulation** — Full programmatic rendering of dynamic UI components without a framework
 - **Filtering Logic** — Multi-parameter, real-time filter pipeline applied across datasets
@@ -306,17 +195,11 @@ This project is a deliberate demonstration of production-level vanilla JS capabi
 - **Animated Counters** — Eased, frame-accurate counter animations tied to scroll visibility
 - **Ticker System** — CSS + JS-driven live news ticker with seamless loop logic
 
-<br/>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  INSTALLATION SECTION                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## ◈ &nbsp; Installation & Launch
+<h2>◈ Installation & Launch</h2>
 
 </div>
 
@@ -324,7 +207,7 @@ No build tools. No dependencies. Pure web — ready to fly in seconds.
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/skyintel-aviation-dashboard.git
+git clone https://github.com/tusharr-mishra/skyintel-aviation-dashboard.git
 
 # Navigate into the project
 cd skyintel-aviation-dashboard
@@ -333,19 +216,13 @@ cd skyintel-aviation-dashboard
 open index.html
 ```
 
-> On Windows, use `start index.html` · On Linux, use `xdg-open index.html`
-
-<br/>
+> On Windows: `start index.html` &nbsp;·&nbsp; On Linux: `xdg-open index.html`
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               FUTURE IMPROVEMENTS SECTION                     -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-## ◈ &nbsp; Roadmap & Future Development
+<h2>◈ Roadmap & Future Development</h2>
 
 </div>
 
@@ -359,28 +236,19 @@ open index.html
 | 🟢 Planned | **Authentication System** | Role-based access for operations staff and analysts |
 | 🟢 Planned | **WebSocket Integration** | True real-time data push without polling overhead |
 
-<br/>
-
 ---
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      FOOTER SECTION                           -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
 
 <div align="center">
 
-```
- ──────────────────────────────────────────────────────────────
-  SkyIntel Aviation Dashboard  ·  Engineered for the modern web
-  Cleared for takeoff. Destination: production.
- ──────────────────────────────────────────────────────────────
-```
+<p><b>SkyIntel Aviation Dashboard &nbsp;·&nbsp; Engineered for the modern web</b></p>
+
+<p><i>Cleared for takeoff. Destination: production.</i></p>
 
 <br/>
 
-**Built with precision by [Tushar Mishra](https://github.com/tusharr-mishra)**
+<p>Built with precision by <a href="https://github.com/tusharr-mishra"><b>Tushar Mishra</b></a></p>
 
 <br/>
 
@@ -392,6 +260,6 @@ open index.html
 
 <br/><br/>
 
-*Radar contact established. Squawk 7700 only if you don't ship clean code.*
+<sub><i>Radar contact established. Squawk 7700 only if you don't ship clean code.</i></sub>
 
 </div>
