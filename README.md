@@ -26,7 +26,7 @@
 
 <img src="assets/screenshots/dashboard-overview.png" alt="SkyIntel Dashboard Overview" width="88%" />
 
-<sub>▲ SkyIntel Operations Center — Main Dashboard View</sub>
+<sub> SkyIntel Operations Center — Main Dashboard View</sub>
 
 </div>
 
@@ -34,11 +34,21 @@
 
 <div align="center">
 
-<h2> Platform Demo</h2>
+<h2>🎥 Live Product Walkthrough</h2>
 
-<p>A full walkthrough of all core modules — flight monitoring, AI predictions, weather feeds, analytics, and the responsive dark/light UI system.</p>
+<p>
+A full walkthrough of all core modules — flight monitoring, AI predictions, weather feeds, analytics, and the responsive dark/light UI system.
+</p>
 
-<p><b>▶ <a href="assets/demo/SkyIntel-demo.mp4">Watch Full Demo</a></b> &nbsp;·&nbsp; <i>Or upload to YouTube/Loom and paste the link here for embedded preview</i></p>
+<p>
+<a href="https://drive.google.com/file/d/1KJxxNPjQA-I-82b3xK2Hv1NHuR01WlPU/view?usp=sharing">
+  <img src="assets/screenshots/dashboard-overview.png" alt="SkyIntel Aviation Dashboard Demo Preview" width="850">
+</a>
+</p>
+
+<p>
+<b>▶ <a href="https://drive.google.com/file/d/1KJxxNPjQA-I-82b3xK2Hv1NHuR01WlPU/view?usp=sharing">Watch Full Demo</a></b>
+</p>
 
 </div>
 
@@ -62,7 +72,7 @@ The platform surfaces six intelligence modules in a unified dashboard: live flig
 
 <div align="center">
 
-<h2>◈ Feature Matrix</h2>
+<h2> Feature Matrix</h2>
 
 </div>
 
@@ -83,7 +93,7 @@ The platform surfaces six intelligence modules in a unified dashboard: live flig
 
 <div align="center">
 
-<h2>◈ Technology Stack</h2>
+<h2> Technology Stack</h2>
 
 | Layer | Technology | Purpose |
 |---|---|---|
@@ -130,7 +140,7 @@ The platform surfaces six intelligence modules in a unified dashboard: live flig
 
 <div align="center">
 
-<h2>◈ Frontend Architecture</h2>
+<h2> Frontend Architecture</h2>
 
 </div>
 
@@ -148,7 +158,7 @@ SkyIntel/
 ```
 
 <details>
-<summary><b>◈ Design System Overview</b></summary>
+<summary><b> Design System Overview</b></summary>
 
 <br/>
 
